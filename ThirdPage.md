@@ -14,5 +14,5 @@ ThirdPage.md
 
 ![aat.jpg](/image/aat.jpg)
 
-![Combined_ logo.png](/image/Combined_ logo.png)
+![Combinedlogo.png](/image/Combinedlogo.png)
 ![Combined_ logo.png](/image/Combined_ logo.png)![aao_logo.jpeg](/image/aao_logo.jpeg)![Combined_ logo.png](/image/Combined_ logo.png)
